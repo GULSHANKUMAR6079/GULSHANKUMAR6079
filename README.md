@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is GULSHAN KUMAR and I'm a DATA ENTHUSIAST learning  DATA SCIENCE.</h4>
+<h4 align="left">Hi 👋! My name is GULSHAN KUMAR and I'm a DATA ENTHUSIAST and exploring DATA SCIENCE.</h4>
 
 ###
 
@@ -47,17 +47,13 @@
   <a href="https://accounts.google.com/SignOutOptions?hl=en-GB&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/gulshan-kumar-259499290/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BnsnzKmyeRu6netaRc5QMMQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/gulshan-kumar-259499290/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="8709596674" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/GULSHANKUMAR6079/GULSHANKUMAR6079/output/snake.svg" alt="Snake animation" />
 
 ###
 
