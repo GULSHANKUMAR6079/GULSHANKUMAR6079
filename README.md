@@ -1,3 +1,7 @@
+<h4 align="left">Hi 👋! My name is GULSHAN KUMAR and I'm a DATA ENTHUSIAST learning  DATA SCIENCE.</h4>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -23,10 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
-
-###
-
-<h4 align="left">Hi 👋! My name is GULSHAN KUMAR and I'm a DATA ENTHUSIAST learning  DATA SCIENCE.</h4>
 
 ###
 
